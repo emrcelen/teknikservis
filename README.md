@@ -1,5 +1,5 @@
 # :information_source: Teknik Servis Uygulaması
-:dart:			**Aşağıdaki _gereksinimler_ doğrultusunda** Restful servis uygulaması `Java Spring Boot`, `Spring Data JDBC`, `Spring Security`, `Oracle Database`, `Validation-Validator`, `Swagger`, `Lombok` ve `i18` kullanılarak geliştirilmiştir.
+:dart:			**Aşağıdaki _gereksinimler_ doğrultusunda** Restful servis uygulaması `Java Spring Boot`, `Spring Data JDBC`, `Spring Security`, `Oracle Database`, `Validation-Validator`, `Swagger`, `Lombok` ve `i18n` kullanılarak geliştirilmiştir.
 
 ##  :hash: Bilgisayar Teknik Servisi ve 2.El Satış Yönetim Uygulaması
 :briefcase:	Bu uygulama ile bir teknik servisin randevu usulü ile bilgisayar bakım hizmetleri yapması ve aynı zamanda 2. el bilgisayar parçası alıp satabilmesi isteniyor. Bütün servislerin mesajlarının ***internationalization*** ile çalışması isteniyor. Projede ***~~stok kontrolü~~*** gibi bir gereksinim bulunmamaktadır.
